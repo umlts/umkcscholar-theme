@@ -1,0 +1,9 @@
+/* CSS stylesheet for MU digital library */\
+
+div#mu-header {
+		background: white;
+		height: 100px;
+		width: 100%;
+		margin: 0;
+		padding: 0;
+}
